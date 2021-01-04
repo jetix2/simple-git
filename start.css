@@ -1,6 +1,7 @@
-body {
-    background: black;
+.container {
+    background-color:  black;
 }
-h1 {
+H1 {
     color: yellow;
+    text-align: center;
 }
